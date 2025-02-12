@@ -1,9 +1,9 @@
 {
-  'mensagens':[
+  "mensagens":[
     {
-      'id':1,
-      'mensagem':'Olá',
-      'autoria':'Felipe'
+      "id":1,
+      "mensagem":"Olá",
+      "autoria":"Felipe"
     }
   ]
 }
